@@ -17,7 +17,8 @@ This project aims to build foundational language skills in a playful and immersi
 Below are actual screenshots of the platform interface:
 
 ### Home Page
-![Home Page](./assets/1b322f5d-c5a3-416e-94f5-bf52b1ff7d07.jpg)
+![Home Page](![WhatsApp Image 2025-04-08 at 20 27 14_db4426bc](https://github.com/user-attachments/assets/ba946cab-b4fd-4ac2-acc9-b3109390c997)
+)
 
 ### Features Section
 ![Features Section](./assets/e6eb6e1d-1d4f-451a-8cdf-b5c94ffcdc6c.jpg)
