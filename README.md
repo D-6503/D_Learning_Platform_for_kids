@@ -21,16 +21,16 @@ Below are actual screenshots of the platform interface:
 )
 
 ### Features Section
-![Features Section](./assets/e6eb6e1d-1d4f-451a-8cdf-b5c94ffcdc6c.jpg)
+![Features Section](![WhatsApp Image 2025-04-08 at 20 27 14_be88104d](https://github.com/user-attachments/assets/36f2fac4-cbea-473a-9a01-230cbded6baa)
+)
 
 ### Learning Dashboard
-![Learning Dashboard](./assets/741eb8d0-8d5b-47ae-affc-4476e9dc6240.jpg)
+![Learning Dashboard](![WhatsApp Image 2025-04-08 at 20 27 13_6b05cbaa](https://github.com/user-attachments/assets/a30a8eee-aab1-4ad8-b9f6-8000cd3c073d)
+)
 
 ### Challenge/Game Interface
-![Challenge Interface](./assets/7ae59573-ba8b-4f4b-8303-b3356cdd4811.jpg)
-
-### Contact or Final Page
-![Contact Page](./assets/32c80741-2435-4699-90f1-742f51c67720.jpg)
+![Challenge Interface](![WhatsApp Image 2025-04-08 at 20 27 13_66f3073c](https://github.com/user-attachments/assets/cfdd0af7-87cf-4a8a-a6b2-736d44ac6bd6)
+)
 
 ---
 
