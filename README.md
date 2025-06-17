@@ -2,7 +2,7 @@
 
 This is an interactive **language learning platform for kids**, designed with a gamified experience inspired by **Duolingo**. The platform focuses on making language learning fun, engaging, and effective for children through:
 
-- **Gamified Lessons**
+- **Gamified Lessons** 
 - **Speech-based Evaluations**
 - **Progress Tracking**
 - **Reward Systems**
